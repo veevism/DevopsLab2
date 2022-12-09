@@ -154,3 +154,9 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+
+# INFORMATION
+
+    NAME :  PHACHARANAN THUMJAIKUL
+
+    STUDENT ID :  642115026
